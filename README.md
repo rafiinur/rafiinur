@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Only hooman who loved to learn and code.
 
 - 😄 My fullname is Rafi Nurfadly, you can call me Rafi
-- 🔭 I'm currently a first-year university student
+- 🔭 I'm currently a second-year university student
 - 🌱 I'm currently learning PHP, Javascript and Python
 
